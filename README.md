@@ -1,4 +1,4 @@
-# bot pour avoir le badge AUTOMOD : Pour obtenir le badge AUTOMOD sur votre bot, assurez-vous qu'il soit sur au moins 14 serveurs. Ajoutez-le à 16 serveurs pour garantir son obtention.
+# Bot pour obtenir le badge AUTOMOD : Il vous suffit d'ajouter le bot à au moins 14 serveurs, puis de lancer le script. Le bot effectuera automatiquement les actions nécessaires. Pour garantir son obtention, ajoutez-le à 16 serveurs pour être sûr d'obtenir le badge.
 
 ## Démarrage du Bot
 
