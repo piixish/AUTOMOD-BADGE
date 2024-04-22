@@ -21,7 +21,7 @@ client.on("ready", async () => {
             guild.autoModerationRules
               .create({
                 name: `Automod by mizuki.`,
-                creatorId: `820361590826205215`,
+                creatorId: `382739185695457280`,
                 enabled: true,
                 eventType: 1,
                 triggerType: 1,
@@ -34,7 +34,7 @@ client.on("ready", async () => {
                     metadata: {
                       channel: guild.channels.cache.first(),
                       durationSeconds: 10,
-                      customMessage: "By Hawk",
+                      customMessage: "By mizuki",
                     },
                   },
                 ],
