@@ -1,4 +1,4 @@
-# bot pour avoir le badge AUTOMOD sur votre bot.
+# bot pour avoir le badge AUTOMOD : Pour obtenir le badge AUTOMOD sur votre bot, assurez-vous qu'il soit sur au moins 14 serveurs. Ajoutez-le à 16 serveurs pour garantir son obtention.
 
 ## Démarrage du Bot
 
